@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Sensitive files
+token.json
+token_second.json
+credentials.json
+credentials_second.json
+config.py
+
+# API Keys (use environment variables instead)
+*.env
+
+# Video files
+*.mp4
+*.mov
+*.m4v
+*.avi
+
+# Generated files
+thumbnail.png
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+token.json
+*.mp4
+*.mov
+*.m4v
+thumbnail.png
+.git/
+.gitignore
+tests/
+list_models.py
