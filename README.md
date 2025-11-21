@@ -10,6 +10,8 @@ An intelligent automation workflow that monitors Google Drive for new videos, an
 
 ---
 
+![Video Automation Workflow](assets/workflow_diagram.png)
+
 ## ✨ Features
 
 - **🤖 AI-Powered Analysis**: Uses Google Gemini to analyze video content and generate:
@@ -48,6 +50,9 @@ An intelligent automation workflow that monitors Google Drive for new videos, an
    ```bash
    python setup_wizard.py
    ```
+
+   ![Setup Wizard Demo](assets/setup_wizard_demo.png)
+
 3. **Validate Your Setup** - Check that everything is configured correctly:
    ```bash
    python validate_setup.py
