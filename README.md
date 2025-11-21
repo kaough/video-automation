@@ -186,10 +186,17 @@ MIT License - feel free to use this project for your own purposes!
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 👤 Author
+## 👤 About the Author
 
 **kaough**
-- GitHub: [@kaough](https://github.com/kaough)
+
+*AI Automation Enthusiast & Developer*
+
+I built this tool to streamline the video creation process and demonstrate the power of combining modern AI tools. My goal is to make advanced automation accessible to creators of all technical levels.
+
+- 🐙 **GitHub**: [@kaough](https://github.com/kaough)
+- 🔧 **Projects**: Focused on AI, Automation, and Python tools
+- 🤝 **Open for**: Collaboration on AI and automation projects
 
 ## 🙏 Acknowledgments
 
